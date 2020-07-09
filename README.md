@@ -1,6 +1,6 @@
-# Broadcast
+# NewsApp
 
-A new Flutter project.
+The application is for users to see latest news on the go. It is developed on flutter.
 
 ## Getting Started
 
